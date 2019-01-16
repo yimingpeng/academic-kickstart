@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Work & Research Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,11 +19,11 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Ph.D. Candidate & Part-time Research Assistant"
+  company = "Victoria University of Wellington"
+  company_url = "www.vuw.ac.nz"
+  location = "Wellington"
+  date_start = "2015-09-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -34,12 +34,30 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Research and Teaching Assistant"
+  company = "Unitec Institute of Technology"
+  company_url = "www.unitec.ac.nz"
+  location = "Auckland"
+  date_start = "2012-09-01"
+  date_end = "2015-09-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Part-time Lecturer"
+  company = "Unitec Institute of Technology"
+  company_url = "www.unitec.ac.nz"
+  location = "Auckland"
+  date_start = "2011-09-01"
+  date_end = "2012-09-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Part-time Research Assistant"
+  company = "Unitec Institute of Technology"
+  company_url = "www.unitec.ac.nz"
+  location = "Auckland"
+  date_start = "2011-09-01"
+  date_end = "2012-09-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
