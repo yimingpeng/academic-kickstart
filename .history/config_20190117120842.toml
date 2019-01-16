@@ -317,8 +317,8 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
-  name = "Awards"
-  url = "#accomplishments"
+  name = "Awards & Scholarships"
+  url = "accomplishments"
   weight = 6
 
 [[menu.main]]
@@ -327,14 +327,9 @@ enableGitInfo = false
   weight = 7
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 8
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
