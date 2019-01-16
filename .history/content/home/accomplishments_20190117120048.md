@@ -68,18 +68,10 @@ date_format = "Jan 2006"
   description = "Fully funded, $23,500 NZD p.a. for three years plus tuition fee"
 
 [[item]]
-  title = "Nominee"
+  title = "Nominee of Highest Rated Lecturer"
   organization = "Unitec"
   # certificate_url = "https://www.datacamp.com"
   date_start = "2014-04-01"
   date_end = ""
-  description = "Highest Rated Lecturer"
-
-[[item]]
-  title = "Eagle Technology Scholarship"
-  organization = "AUT"
-  # certificate_url = "https://www.datacamp.com"
-  date_start = "2011-12-01"
-  date_end = ""
-  description = "$2,500 NZD for the top master graduate (First Class First Division)"
+  description = "Fully funded, $23,500 NZD p.a. for three years plus tuition fee"
 +++
