@@ -1,0 +1,78 @@
++++
+title = "Constrained Expectation-Maximization Methods for Effective Reinforcement Learning"
+date = 2018-01-17T16:03:26+13:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors =  [ "Gang Chen", "<b>Yiming Peng</b>", "Mengjie Zhang"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = ""
+publication_short = "IJCNN"
+
+# Abstract and optional shortened version.
+abstract = "Recent advancement on reinforcement learning (RL) algorithms shows that effective learning of parametric action- selection policies can often be achieved through direct optimization of a performance lower bound subject to pre-defined policy behavioral constraints. Driven by this understanding, this paper seeks to develop new policy search techniques where RL is achieved through maximizing a performance lower bound obtained originally based on an Expectation-Maximization method. For reliable RL, our new learning techniques must also simultaneously guarantee constrained policy behavioral changes measured through KL divergence. Two separate approaches will be pursued to tackle our constrained policy optimization problems, resulting in two new RL algorithms. The first algorithm utilizes a conjugate gradient technique and a Bayesian learning method for approximate optimization. The second algorithm focuses on minimizing a loss function derived from solving the Lagrangian for constrained policy search. Both algorithms have been experimentally examined on several benchmark problems provided by OpenAI GYM. The experiment results clearly demonstrate that our algorithms can be highly effective in comparison to several well-known RL algorithms."
+abstract_short = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Slides (optional).
+#   Associate this page with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "c-paper-9.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = "https://ieeexplore.ieee.org/document/8488990"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
