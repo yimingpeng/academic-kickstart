@@ -1,0 +1,85 @@
++++
+# Accomplishments widget.
+widget = "accomplishments"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+
+title = "Awards & Scholarships"
+subtitle = ""
+
+# Order that this section will appear in.
+weight = 30
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  title = "ACM SigEVO Student Travel Award"
+  organization = "Association for Computing Machinery (ACM)"
+  # certificate_url = "https://www.coursera.org"
+  date_start = "2018-07-01"
+  date_end = ""
+  description = "$700 USD"
+
+[[item]]
+  title = "Victoria Thesis Submission Scholarship"
+  organization = "VUW"
+  # certificate_url = "https://www.edx.org"
+  date_start = "2018-09-01"
+  date_end = ""
+  description = "$6000 NZD"
+  
+[[item]]
+  title = "Faculty Strategic Research Grant"
+  organization = "VUW"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2018-05-01"
+  date_end = ""
+  description = "$3000 NZD"
+
+[[item]]
+  title = "The 26th International Joint Conferences on Artificial Intelligence (IJCAI 2017) Student Travel Grant"
+  organization = "IJCAI"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = ""
+  description = "$1000 USD"
+
+[[item]]
+  title = "Faculty Strategic Research Grant"
+  organization = "VUW"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2016-07-01"
+  date_end = ""
+  description = "$3000 NZD"
+
+[[item]]
+  title = "Victoria Doctoral Scholarship"
+  organization = "VUW"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2015-09-01"
+  date_end = ""
+  description = "Fully funded, $23,500 NZD p.a. for three years plus tuition fee"
+
+[[item]]
+  title = "Nominee"
+  organization = "Unitec"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2014-04-01"
+  date_end = ""
+  description = "Highest Rated Lecturer"
+
+[[item]]
+  title = "Eagle Technology Scholarship"
+  organization = "AUT"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2011-12-01"
+  date_end = ""
+  description = "$2,500 NZD for the top master graduate (First Class First Division)"
++++
